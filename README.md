@@ -1,1 +1,2 @@
-<h4>This Python code utilizes the Pygame library to create a basic game called "Galaxy Glide".<br> A simple game where players control a spaceship with arrow keys in a window.</h4>
+# Galaxy-Glide_pygame
+Galaxy Glide is a simple, interactive game built using the Pygame library in Python. Players control a spaceship using the arrow keys and navigate through a window, avoiding obstacles and collecting points. This project demonstrates the basics of game development, including event handling, sprite movement, and collision detection, making it an ideal starting point for beginners interested in creating games with Pygame
